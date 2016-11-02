@@ -1,0 +1,11 @@
+# Folders to ignore#
+####################
+**/images/
+
+
+# File Types to ignore#
+#######################
+*.key
+*.docx
+Untitled*
+*checkpoint*
