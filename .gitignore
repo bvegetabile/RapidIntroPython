@@ -9,3 +9,4 @@
 *.docx
 Untitled*
 *checkpoint*
+.DS_Store
